@@ -52,6 +52,7 @@ int sum_the_decimal_digits_of_a_value(long double &rootvalue, int digitsum, int 
     }
     return digitsum;
 }
+
 int digitsum=0;
 std::string inputhashing(std::string input)
 {
@@ -85,6 +86,7 @@ std::string inputhashing(std::string input)
             }
         }
     }
+
     endtimer();
     return reinterpret_cast<char*>(hash);
 }

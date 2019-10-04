@@ -4,6 +4,9 @@ int main(int argc, char *argv[]) {
     std::string choice;
 
 
+
+
+
         if (std::string(argv[1])=="f")
         {
             myhash = filehashing( std::string(argv[2]));
