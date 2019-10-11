@@ -70,5 +70,9 @@ atlikta per 0.241264s
 
 
 
+### 3 Užduotis
+1000 000 atsitiktinių simbolių eilučių porų
+`hash.exe t`
+0 rasta sutampimu
 
 
